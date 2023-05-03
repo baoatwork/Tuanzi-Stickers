@@ -9,7 +9,7 @@
 ## Issues
 
   #### Issue No.1 
-  ![issue1](issue1.png)
+  <img src="issue1.png" width="200" />
 
 ## Links 
 
