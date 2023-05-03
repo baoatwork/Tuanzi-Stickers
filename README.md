@@ -1,6 +1,6 @@
 # Tuanzi Stickers 百变团子表情包
 
-![cover](cover.png | width="100")
+![cover](cover.png)
 
 ## Preview Video
 
