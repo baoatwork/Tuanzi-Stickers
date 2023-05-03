@@ -10,7 +10,7 @@
 
   #### Issue No.1: 100 expressions of Tuanzi 团子的一百种表情
   <img src="issue1.png" width="600" />
-  [Download](https://github.com/baoatwork/Tuanzi-Stickers/raw/main/first-issue.zip)
+  [Download](first-issue.zip)
 
 ## Links 
 
