@@ -4,6 +4,11 @@
 
 ## Preview Video
 
+
+https://user-images.githubusercontent.com/37652167/236089066-0001fd3d-1aef-4efb-ac95-cb2151451c72.mp4
+
+
+
 ## About
 
 ## Issues
@@ -17,3 +22,6 @@
 
   #### -Wechat Downloading Page-
   [Link](https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/emoticonview?oper=single&t=shop/detail&productid=aL2PCfwK/89qO7sF6/+I+UDhfwEjhec2ZNvdnLLJRd/Nr57n3KJ3w9f+wQeAWhK+sux02b+sjjgPxPL2l7hcvzNxpR5QLxW9eBwm6wnkI4SQ=)
+
+## Version History
+2023.05.03 The first issue is now published!
