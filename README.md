@@ -14,6 +14,7 @@ https://user-images.githubusercontent.com/37652167/236089358-762f88a4-5c40-45f4-
 Tuanzi stickers are a series of AI-generated chat stickers which aim to supplement the missing body language and facial expressions in online chatting. In this vision, these stickers depict various actions and expressions of the same character Tuanzi, who is an anthropomorphic image of the food rice ball. In order to keep the character consistent in AI art, the development process involves specific parameter adjustment and post-processing.
 
 Producer: BAO (Zihan Feng)
+
 Tool: Midjourney
 
 ## Issues
